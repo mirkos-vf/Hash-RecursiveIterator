@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Hash-RecursiveIterator.t
+lib/Hash-RecursiveIterator.pm
